@@ -123,7 +123,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
 * [Wolfram Alpha](http://www.wolframalpha.com)
-* [Yahoo! Search](http://www.yahoo.com) - 
+* [Yahoo! Search](http://www.yahoo.com) -
 
 ## [↑](#contents) Main National Search Engines
 
@@ -162,6 +162,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
 * [Trovando](http://www.trovando.it)
+* [WebOasis](https://weboas.is/)
 * [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
@@ -209,9 +210,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
 * [PDF Search Engine](http://www.pdfsearchengine.info)
-* [PDFgive](http://pdfgive.net)
-* [PDFSB](http://pdfsb.net)
-* [PDFSR](http://pdfsr.com)
 * [PPTHunter](http://www.ppthunter.com)
 * [RECAP](http://archive.recapthelaw.org)
 * [Scribd](http://www.scribd.com)
@@ -224,7 +222,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Find information that has been uploaded to Pastebin.*
 
 * [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html) - A custom search page that indexes 57 different paste sites.
-* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries. 
+* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 
 ## [↑](#contents) Code Search
 
@@ -410,7 +408,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Worldcam](http://worldc.am)
 
 ### [↑](#contents) Pinterest
- 
+
 * [Pingroupie](http://pingroupie.com)
 * [Pin Search](https://chrome.google.com/webstore/detail/pin-search-image-search-o/okiaciimfpgbpdhnfdllhdkicpmdoakm)
 
@@ -419,13 +417,13 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Tools to help discover more about a reddit user or subreddit.*
 
 * [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
-* [Metareddit](http://metareddit.com) - Explore various subreddits. 
+* [Metareddit](http://metareddit.com) - Explore various subreddits.
 * [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
 * [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
-* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience. 
+* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
 * [Reddit Investigator](http://www.redditinvestigator.com) - Investigate a reddit users history.
 * [Reddit Metrics](http://redditmetrics.com) - Keeps track of the growth of a subreddit.
-* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer. 
+* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer.
 * [SnoopSnoo](http://snoopsnoo.com) - Provides reddit user and subreddits analytics.
 * [Subreddits](http://subreddits.org) - Discover new subreddits.
 * [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
@@ -563,7 +561,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [EmailSearch.net](http://www.email-search.org/search-emails)
 * [Email Validator](https://chema.ga/emailvalidator/index.php)
 * [Email Validator Tool](http://e-mailvalidator.com)
-* [Have I Been Pwned](https://haveibeenpwned.com)
+* [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [MailTester](http://mailtester.com/testmail.php)
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
@@ -572,10 +570,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
-* [VoilaNorbert](https://www.voilanorbert.com)
+* [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
 ## [↑](#contents) Phone Number Research
-* [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day. 
+* [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
 * [NumSpy-API](https://numspy.pythonanywhere.com) - find details of any mobile number in india for free and get a JSON formated output, inspired by [NumSpy](https://bhattsameer.github.io/numspy).
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
@@ -708,7 +706,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Domain and IP Research
 
 * [Accuranker](https://www.accuranker.com)
-* [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more. 
+* [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 * [Alexa](http://www.alexa.com)
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com)
@@ -719,7 +717,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [DNSDumpster](https://dnsdumpster.com)
 * [DNS History](http://dnshistory.org)
 * [DNSStuff](http://www.dnsstuff.com)
-* [DNSTrails](http://dnstrails.com) - Historical and current WHOIS, historical and current DNS records, technologies used and whois search by phone, mail, address, IP etc.
 * [DNSViz](http://dnsviz.net)
 * [Domain Big Data](http://domainbigdata.com)
 * [Domain Crawler](http://www.domaincrawler.com)
@@ -758,16 +755,17 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com)
 * [SameID](http://sameid.net)
-* [SecurityTrails](https://securitytrails.com) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc. 
+* [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SEMrush](https://www.semrush.com)
 * [SEO Chat Tools](http://tools.seochat.com)
 * [SEOTools for Excel](http://seotoolsforexcel.com)
-* [Similar Web](https://www.similarweb.com)
+* [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 * [SmallSEOTools](http://smallseotools.com)
 * [StatsCrop](http://www.statscrop.com)
+* [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [TCPIPUTILS.com](http://www.tcpiputils.com)
 * [urlQuery](http://urlquery.net)
-* [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites. 
+* [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 * [Wappalyzer](https://wappalyzer.com)
 * [WebMeUp](http://webmeup.com)
 * [Website Informer](http://website.informer.com)
@@ -821,7 +819,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Free Website Translation](http://free-website-translation.com)
 * [Frengly](http://frengly.com)
 * [Gengo](http://gengo.com)
-* [Google Input Tools](https://www.google.com/inputtools/try)
+* [Google Input Tools](https://www.google.com/inputtools/try) - Makes it easy to type in the language you choose, anywhere on the web.
 * [Google Translate](https://translate.google.com)
 * [Google Tranlslate Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
 * [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
@@ -868,7 +866,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [PicTriev](http://www.pictriev.com)
 * [Reverse Image Search](https://inteltechniques.com/osint/menu.reverse.image.html)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
-* [TinEye](https://tineye.com)
+* [TinEye](https://tineye.com) - Reverse image search engine.
 * [Websta](http://websta.me)
 * [Worldcam](http://www.worldc.am)
 * [Yahoo Image Search](https://images.search.yahoo.com)
@@ -978,7 +976,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Open Grey](http://www.opengrey.eu)
 * [The Open Syllabus Project](http://opensyllabusproject.org/)
 * [Oxford Journals](http://www.oxfordjournals.org)
-* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books. 
+* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books.
 * [Quetzal Search](https://www.quetzal-search.info)
 * [Research Gate](http://www.researchgate.net)
 * [SAGE Journals](http://online.sagepub.com)
@@ -1185,7 +1183,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Fact Check](http://www.factcheck.org)
 * [Full Fact](https://fullfact.org)
 * [MediaBugs](http://mediabugs.org)
-* [Snopes](http://www.snopes.com)
+* [Snopes](http://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
 * [Verification Handbook](http://verificationhandbook.com)
 * [Verification Junkie](http://verificationjunkie.com)
 * [Verily](https://veri.ly)
@@ -1247,6 +1245,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Pew Research Center](http://www.pewinternet.org/datasets)
 * [Population Reference Bureau Data Finder](http://www.prb.org/DataFinder.aspx)
 * [PRS Risk Indicators](http://www.prsgroup.com)
+* [Scylla](http://scylla.sh) - Various scans and database dumps.
 * [SESRIC Basic Social and Economic Indicators](http://www.sesric.org/baseind.php)
 * [SESRIC Databases](http://www.sesric.org/databases-index.php)
 * [Statista](http://www.statista.com)
@@ -1281,7 +1280,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [AlertBox](https://addons.mozilla.org/en-US/firefox/addon/alertbox)
 * [Alltop](http://alltop.com)
-* [AOL Reader](http://reader.aol.com)
 * [Awasu](http://www.awasu.com)
 * [Bridge.Leslibres](https://bridge.leslibres.org)
 * [Bridge.Suumitsu](https://bridge.suumitsu.eu)
@@ -1300,7 +1298,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [FetchRSS](http://fetchrss.com)
 * [Flipboard](http://flipboard.com)
 * [FollowThatPage](http://www.followthatpage.com)
-* [Google Alerts](http://www.google.com/alerts)
+* [Google Alerts](http://www.google.com/alerts) - A content change detection and notification service.
 * [InfoMinder](http://www.infominder.com/webminder)
 * [IQAlerts](http://iqalerts.com)
 * [Mention](https://en.mention.com)
@@ -1488,6 +1486,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Slide Show and Presentation Tools
 
 * [Canva](https://www.canva.com/create/presentations)
+* [Convert Words to Time](https://wordstotime.com) - Converts the number of words in a presentation or speech to how many minutes it will take to read.
 * [Deckset](http://www.decksetapp.com)
 * [emaze](https://www.emaze.com)
 * [GoogleDocs](https://docs.google.com)
@@ -1726,6 +1725,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [RescueTime](https://www.rescuetime.com)
 * [Restya](http://restya.com)
 * [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji/details)
+* [Taskade](https://taskade.com)
 * [Taskboard](https://taskboard.matthewross.me)
 * [TikiTiki](https://ticktick.com)
 * [Tinygain](https://tinygain.com)
@@ -1767,7 +1767,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Sortd](http://www.sortd.com)
 * [TrueNew](https://chrome.google.com/webstore/detail/truenewtm-count-for-gmail/lhgbgmbdabgjdephnmkpmcdkmnpiahlb)
 * [Ugly Email](https://uglyemail.com)
-* [Unroll.me](https://unroll.me)
+* [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
 * [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
 
 ## [↑](#contents) Document and Reference Management
@@ -1993,7 +1993,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [TeamWork](https://www.teamwork.com)
 * [TeamWorklive](http://www.teamworklive.com)
 * [TitanPad](https://titanpad.com)
-* [Todoyu](http://www.todoyu.com)
+* [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 * [Transparent Business](http://transparentbusiness.com)
 * [Trello](https://trello.com)
 * [Tuzzit](https://www.tuzzit.com)
@@ -2254,18 +2254,23 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Other Tools
 
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
+* [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
-* [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis. 
+* [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
-* [Outwit](http://www.outwit.com) -  Find, grab and organize all kinds of data and media from online sources.
+* [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
+* [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+* [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 * [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
-* [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+* [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
+* [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+* [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [↑](#contents) OSINT Videos
 
